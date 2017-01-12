@@ -1,0 +1,29 @@
+{
+  "name": "bce-csv-generator",
+  "version": "1.0.0",
+  "description": "This generates the csv required for the D2L Bulk Course Exporter.",
+  "main": "compile.js",
+  "dependencies": {
+    "nightmare": "^2.9.1",
+    "nightmare-helpers": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuicampuscd/bce-csv-generator.git"
+  },
+  "keywords": [
+    "D2L",
+    "BCE",
+    "CSV"
+  ],
+  "author": "Eric Julander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuicampuscd/bce-csv-generator/issues"
+  },
+  "homepage": "https://github.com/byuicampuscd/bce-csv-generator#readme"
+}
