@@ -1,0 +1,19 @@
+Corse code - fdmat 108 - Capped
+	1 col all UPPEr course code
+online or pathway : PATH, ONLN
+	domain for course
+?semester: WI,SP,SS,FA,CH, then year SP15
+	? = not toally sure if it is needed
+	Semester + year
+isBlock: bool
+	Block course??
+
+first last as one	
+	one name field Forst + last
+Hours of work in MT
+	Finda way to get data into the thinggy 
+email - hard coded
+	Same for everyone Put in after the process - ask if still true
+phone - hard coded
+	Same as bove
+Other Data Slots
