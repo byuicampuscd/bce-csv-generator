@@ -15,15 +15,15 @@
     "type": "git",
     "url": "git+https://github.com/byuicampuscd/bce-csv-generator.git"
   },
+  "bugs": {
+    "url": "https://github.com/byuicampuscd/bce-csv-generator/issues"
+  },
+  "homepage": "https://github.com/byuicampuscd/bce-csv-generator#readme",
   "keywords": [
     "D2L",
     "BCE",
     "CSV"
   ],
   "author": "Eric Julander",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/byuicampuscd/bce-csv-generator/issues"
-  },
-  "homepage": "https://github.com/byuicampuscd/bce-csv-generator#readme"
+  "license": "MIT"
 }
